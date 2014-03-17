@@ -1,0 +1,35 @@
+body {
+	background: #FFFFFF;
+	font-family: Arial, Verdana, sans-serif;
+	width: 780px;
+	margin: auto;
+}
+
+.heurediffusion {
+	background-image: url("tile_claire.jpg");
+	background-repeat: repeat-x-y;
+	border-bottom: 1px solid #FFFFFF;
+	width: 740px;
+	text-transform: uppercase;
+	font-size: 1em;
+	color: #26C4EC;
+	padding: 5px;
+}
+
+.pochette {
+	width: 80px;
+	text-align: center;
+	background: #000000;
+	float: left;
+	padding-top: 5px;
+}
+
+.titreartiste {
+	width: 740px;
+	height: 39px;
+	background-image: url("tile_claire.jpg");
+	background-repeat: repeat-x-y;
+	color: #FFFFFF;
+	padding: 5px;
+	margin-bottom: 5px;
+}
