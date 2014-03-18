@@ -20,9 +20,9 @@ $fichier_php_call_api_tracklist="http://www.votresite.fr/tracklist/call_api.php"
 $affichagePochette = 1;
 // Longeur de l'image pour les pochettes (en px)
 $longeurImageImg = "70px";
-// Fichier (URL) de l'image "Pas de pochette"
-$paspochette="http://www.nowradio.fr/images/pas_pochette.png";
-// Fichier de l'image Rafraîchissement
+// Fichier (ou URL) de l'image "Pas de pochette"
+$paspochette="";
+// Fichier (ou URL) de l'image Rafraîchissement de la page
 $refresh="traklist/refresh.png";
 // Hauteur de l'image de Rafraîchissement (en px)
 $heightrefresh="16px";
