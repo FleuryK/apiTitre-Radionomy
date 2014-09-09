@@ -1,35 +1,29 @@
 body {
-	background: #FFFFFF;
-	font-family: Arial, Verdana, sans-serif;
+	background: #F0F0F0;
 	width: 780px;
 	margin: auto;
-}
-
-.heurediffusion {
-	background-image: url("tile_claire.jpg");
-	background-repeat: repeat-x-y;
-	border-bottom: 1px solid #FFFFFF;
-	width: 740px;
-	text-transform: uppercase;
-	font-size: 1em;
-	color: #26C4EC;
-	padding: 5px;
+	font-family: Arial, Verdana, sans-serif;
 }
 
 .pochette {
-	width: 80px;
-	text-align: center;
-	background: #000000;
 	float: left;
-	padding-top: 5px;
+	height: 70px;
+	width: 70px;
+	margin-bottom: 10px;
 }
 
-.titreartiste {
-	width: 740px;
-	height: 39px;
-	background-image: url("tile_claire.jpg");
-	background-repeat: repeat-x-y;
-	color: #FFFFFF;
+#images {
+	float: right;
 	padding: 5px;
-	margin-bottom: 5px;
+}
+
+.diffusion {
+	background-image: url("http://www.monsite.fr/tracklist/tile_claire.jpg");
+	background-repeat: repeat-x-y;
+	margin-bottom: 10px;
+	margin-left: 71px;
+	margin-top: 10px;
+	height: 70px;
+	color: #FFFFFF;
+	width: 675px;
 }
